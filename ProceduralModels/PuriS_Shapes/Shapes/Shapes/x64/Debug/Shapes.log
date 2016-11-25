@@ -1,0 +1,31 @@
+﻿  Shapes.cpp
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(49): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(50): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(51): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(490): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(558): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(559): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(576): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(577): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(589): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(593): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(594): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(598): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(599): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(605): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(610): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(614): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(615): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(638): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(644): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(644): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(802): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(803): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(804): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(811): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(812): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\desktop\work\dsa1\dsa2\proceduralmodels\puris_shapes\shapes\shapes\generatemodels.h(813): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Shapes.vcxproj -> C:\Users\satch\Desktop\Work\DSA1\DSA2\ProceduralModels\PuriS_Shapes\Shapes\x64\Debug\Shapes.exe

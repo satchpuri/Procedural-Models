@@ -1,0 +1,7 @@
+﻿  Shape.cpp
+\\banner.main.ad.rit.edu\students\jhr2186\igmprofile\documents\visual studio 2015\projects\shapes\shapes\shape.cpp(47): warning C4018: '<': signed/unsigned mismatch
+\\banner.main.ad.rit.edu\students\jhr2186\igmprofile\documents\visual studio 2015\projects\shapes\shapes\shape.cpp(52): warning C4018: '<': signed/unsigned mismatch
+\\banner.main.ad.rit.edu\students\jhr2186\igmprofile\documents\visual studio 2015\projects\shapes\shapes\shape.cpp(57): warning C4018: '<': signed/unsigned mismatch
+\\banner.main.ad.rit.edu\students\jhr2186\igmprofile\documents\visual studio 2015\projects\shapes\shapes\shape.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  Shapes.vcxproj -> \\banner.main.ad.rit.edu\students\jhr2186\IGMProfile\Documents\Visual Studio 2015\Projects\Shapes\Debug\Shapes.exe
+  Shapes.vcxproj -> \\banner.main.ad.rit.edu\students\jhr2186\IGMProfile\Documents\Visual Studio 2015\Projects\Shapes\Debug\Shapes.pdb (Full PDB)
